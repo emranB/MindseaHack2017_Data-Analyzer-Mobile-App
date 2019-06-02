@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ClimateMaps</string>
+    <string name="title_activity_climate_map">Map</string>
+
+    <string-array name="Locations">
+        <item>Yarmouth</item>
+        <item>Halifax</item>
+        <item>Dartmouth</item>
+        <item>Antigonish</item>
+        <item>Annapolis</item>
+        <item>Digby</item>
+        <item>Lunenburg</item>
+        <item>Chester</item>
+    </string-array>
+
+    <string-array name="Parameters">
+        <item>Hot Days 30+</item>
+        <item>Cold Days -10</item>
+        <item>Precipitation</item>
+        <item>Temperature</item>s
+        <item>Water</item>
+    </string-array>
+
+    <string-array name="Temperature_Subparams">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Winter</item>
+        <item>Annual</item>
+    </string-array>
+
+    <string-array name="Water_Subparams">
+        <item>Shortage</item>
+        <item>Surplus</item>
+    </string-array>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/cell_parameters_location_text_view"
+        android:layout_alignParentLeft="true"
+        android:text="Location"
+        android:textSize="30sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:id="@+id/cell_parameters_location_spinner"
+        android:layout_toRightOf="@+id/cell_parameters_location_text_view"
+        android:layout_alignBaseline="@+id/cell_parameters_location_text_view"
+        android:textSize="30sp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </Spinner>
+
+    <TextView
+        android:id="@+id/cell_parameters_parameter_text_view"
+        android:layout_below="@+id/cell_parameters_location_text_view"
+        android:layout_alignParentLeft="true"
+        android:text="Parameter"
+        android:textSize="30sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:id="@+id/cell_parameters_parameter_spinner"
+        android:layout_toRightOf="@+id/cell_parameters_parameter_text_view"
+        android:layout_alignBaseline="@+id/cell_parameters_parameter_text_view"
+        android:layout_below="@+id/cell_parameters_location_spinner"
+        android:textSize="30sp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </Spinner>
+
+    <TextView
+        android:id="@+id/cell_parameters_sub_parameter_text_view"
+        android:layout_below="@+id/cell_parameters_parameter_text_view"
+        android:layout_alignParentLeft="true"
+        android:textSize="30sp"
+        android:text="Sub Parameter"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:id="@+id/cell_parameters_sub_parameter_spinner"
+        android:layout_toRightOf="@+id/cell_parameters_sub_parameter_text_view"
+        android:layout_alignBaseline="@+id/cell_parameters_sub_parameter_text_view"
+        android:layout_below="@+id/cell_parameters_parameter_spinner"
+        android:textSize="30sp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </Spinner>
+
+    <SeekBar
+        android:id="@+id/cell_parameters_seek_bar"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10px"
+        android:paddingBottom="10px"
+        android:paddingLeft="30px"
+        android:paddingRight="30px"
+        android:minHeight="10dp" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,785 @@
+Region,Parameter,Unit,Range,Value
+Amherst,Cold Days (Tmax < -10),Days,2080s,2.9
+Amherst,Cold Days (Tmax < -10),Days,2050s,4.9
+Amherst,Cold Days (Tmax < -10),Days,2020s,7
+Amherst,Cold Days (Tmax < -10),Days,1980s,8.4
+Amherst,Hot Days (Tmax > 30),Days,1980s,0.6
+Amherst,Hot Days (Tmax > 30),Days,2020s,2.7
+Amherst,Hot Days (Tmax > 30),Days,2050s,6.8
+Amherst,Hot Days (Tmax > 30),Days,2080s,14.6
+Amherst,Precipitation - Annual,mm,1980s,1174.8
+Amherst,Precipitation - Annual,mm,2020s,1207.1
+Amherst,Precipitation - Annual,mm,2050s,1217.1
+Amherst,Precipitation - Annual,mm,2080s,1253.2
+Amherst,Precipitation - Autumn,mm,1980s,307.7
+Amherst,Precipitation - Autumn,mm,2050s,311
+Amherst,Precipitation - Autumn,mm,2020s,311.4
+Amherst,Precipitation - Autumn,mm,2080s,318
+Amherst,Precipitation - Spring,mm,1980s,285
+Amherst,Precipitation - Spring,mm,2020s,294.4
+Amherst,Precipitation - Spring,mm,2050s,298.7
+Amherst,Precipitation - Spring,mm,2080s,310.4
+Amherst,Precipitation - Summer,mm,1980s,262.5
+Amherst,Precipitation - Summer,mm,2050s,266
+Amherst,Precipitation - Summer,mm,2080s,266.4
+Amherst,Precipitation - Summer,mm,2020s,266.9
+Amherst,Precipitation - Winter,mm,1980s,319.6
+Amherst,Precipitation - Winter,mm,2020s,335.2
+Amherst,Precipitation - Winter,mm,2050s,343.2
+Amherst,Precipitation - Winter,mm,2080s,361.9
+Amherst,Temperature - Annual,°C,1980s,5.8
+Amherst,Temperature - Annual,°C,2020s,6.9
+Amherst,Temperature - Annual,°C,2050s,8.2
+Amherst,Temperature - Annual,°C,2080s,9.4
+Amherst,Temperature - Autumn ,°C,1980s,8.2
+Amherst,Temperature - Autumn ,°C,2020s,9.3
+Amherst,Temperature - Autumn ,°C,2050s,10.5
+Amherst,Temperature - Autumn ,°C,2080s,11.8
+Amherst,Temperature - Spring ,°C,1980s,3.9
+Amherst,Temperature - Spring ,°C,2020s,5
+Amherst,Temperature - Spring ,°C,2050s,6.1
+Amherst,Temperature - Spring ,°C,2080s,7.2
+Amherst,Temperature - Summer ,°C,1980s,17.1
+Amherst,Temperature - Summer ,°C,2020s,18.2
+Amherst,Temperature - Summer ,°C,2050s,19.3
+Amherst,Temperature - Summer ,°C,2080s,20.5
+Amherst,Temperature - Winter,°C,1980s,-6
+Amherst,Temperature - Winter,°C,2020s,-4.7
+Amherst,Temperature - Winter,°C,2050s,-3.3
+Amherst,Temperature - Winter,°C,2080s,-1.9
+Amherst,Water Deficit ,mm,1980s,43
+Amherst,Water Deficit ,mm,2020s,47.9
+Amherst,Water Deficit ,mm,2050s,57.6
+Amherst,Water Deficit ,mm,2080s,68.1
+Amherst,Water Surplus,mm,2050s,688.7
+Amherst,Water Surplus,mm,2020s,689.3
+Amherst,Water Surplus,mm,2080s,694.9
+Amherst,Water Surplus,mm,1980s,708.3
+Annapolis,Cold Days (Tmax < -10),Days,2080s,0.3
+Annapolis,Cold Days (Tmax < -10),Days,2050s,0.7
+Annapolis,Cold Days (Tmax < -10),Days,2020s,1.5
+Annapolis,Cold Days (Tmax < -10),Days,1980s,2.4
+Annapolis,Hot Days (Tmax > 30),Days,1980s,1
+Annapolis,Hot Days (Tmax > 30),Days,2020s,3
+Annapolis,Hot Days (Tmax > 30),Days,2050s,7.3
+Annapolis,Hot Days (Tmax > 30),Days,2080s,13.8
+Annapolis,Precipitation - Annual,mm,1980s,1291.9
+Annapolis,Precipitation - Annual,mm,2020s,1327.4
+Annapolis,Precipitation - Annual,mm,2050s,1338.4
+Annapolis,Precipitation - Annual,mm,2080s,1378.1
+Annapolis,Precipitation - Autumn,mm,1980s,342
+Annapolis,Precipitation - Autumn,mm,2050s,345.6
+Annapolis,Precipitation - Autumn,mm,2020s,346.1
+Annapolis,Precipitation - Autumn,mm,2080s,353.4
+Annapolis,Precipitation - Spring,mm,1980s,313.9
+Annapolis,Precipitation - Spring,mm,2020s,324.3
+Annapolis,Precipitation - Spring,mm,2050s,329
+Annapolis,Precipitation - Spring,mm,2080s,341.9
+Annapolis,Precipitation - Summer,mm,1980s,268.6
+Annapolis,Precipitation - Summer,mm,2050s,272.3
+Annapolis,Precipitation - Summer,mm,2080s,272.7
+Annapolis,Precipitation - Summer,mm,2020s,273.2
+Annapolis,Precipitation - Winter,mm,1980s,367.4
+Annapolis,Precipitation - Winter,mm,2020s,385.3
+Annapolis,Precipitation - Winter,mm,2050s,394.5
+Annapolis,Precipitation - Winter,mm,2080s,416
+Annapolis,Temperature - Annual,°C,1980s,7.3
+Annapolis,Temperature - Annual,°C,2020s,8.5
+Annapolis,Temperature - Annual,°C,2050s,9.7
+Annapolis,Temperature - Annual,°C,2080s,11
+Annapolis,Temperature - Autumn ,°C,1980s,9.2
+Annapolis,Temperature - Autumn ,°C,2020s,10.4
+Annapolis,Temperature - Autumn ,°C,2050s,11.5
+Annapolis,Temperature - Autumn ,°C,2080s,12.8
+Annapolis,Temperature - Spring ,°C,1980s,5.4
+Annapolis,Temperature - Spring ,°C,2020s,6.5
+Annapolis,Temperature - Spring ,°C,2050s,7.6
+Annapolis,Temperature - Spring ,°C,2080s,8.8
+Annapolis,Temperature - Summer ,°C,1980s,17.2
+Annapolis,Temperature - Summer ,°C,2020s,18.3
+Annapolis,Temperature - Summer ,°C,2050s,19.5
+Annapolis,Temperature - Summer ,°C,2080s,20.7
+Annapolis,Temperature - Winter,°C,1980s,-2.6
+Annapolis,Temperature - Winter,°C,2020s,-1.4
+Annapolis,Temperature - Winter,°C,2050s,0.1
+Annapolis,Temperature - Winter,°C,2080s,1.5
+Annapolis,Water Deficit ,mm,2020s,30.8
+Annapolis,Water Deficit ,mm,1980s,32.3
+Annapolis,Water Deficit ,mm,2050s,38.1
+Annapolis,Water Deficit ,mm,2080s,45.8
+Annapolis,Water Surplus,mm,2080s,784.5
+Annapolis,Water Surplus,mm,2050s,790.5
+Annapolis,Water Surplus,mm,2020s,807
+Annapolis,Water Surplus,mm,1980s,875.1
+Annapolis Valley,Cold Days (Tmax < -10),Days,2080s,0.5
+Annapolis Valley,Cold Days (Tmax < -10),Days,2050s,1.5
+Annapolis Valley,Cold Days (Tmax < -10),Days,2020s,2.9
+Annapolis Valley,Cold Days (Tmax < -10),Days,1980s,4.3
+Annapolis Valley,Hot Days (Tmax > 30),Days,1980s,6
+Annapolis Valley,Hot Days (Tmax > 30),Days,2020s,11.3
+Annapolis Valley,Hot Days (Tmax > 30),Days,2050s,19
+Annapolis Valley,Hot Days (Tmax > 30),Days,2080s,32.7
+Annapolis Valley,Precipitation - Annual,mm,1980s,1126.7
+Annapolis Valley,Precipitation - Annual,mm,2020s,1157.6
+Annapolis Valley,Precipitation - Annual,mm,2050s,1167.2
+Annapolis Valley,Precipitation - Annual,mm,2080s,1201.8
+Annapolis Valley,Precipitation - Autumn,mm,1980s,306.3
+Annapolis Valley,Precipitation - Autumn,mm,2050s,309.6
+Annapolis Valley,Precipitation - Autumn,mm,2020s,310
+Annapolis Valley,Precipitation - Autumn,mm,2080s,316.5
+Annapolis Valley,Precipitation - Spring,mm,1980s,259.8
+Annapolis Valley,Precipitation - Spring,mm,2020s,268.4
+Annapolis Valley,Precipitation - Spring,mm,2050s,272.3
+Annapolis Valley,Precipitation - Spring,mm,2080s,282.9
+Annapolis Valley,Precipitation - Summer,mm,1980s,250.4
+Annapolis Valley,Precipitation - Summer,mm,2050s,253.8
+Annapolis Valley,Precipitation - Summer,mm,2080s,254.1
+Annapolis Valley,Precipitation - Summer,mm,2020s,254.6
+Annapolis Valley,Precipitation - Winter,mm,1980s,310.3
+Annapolis Valley,Precipitation - Winter,mm,2020s,325.3
+Annapolis Valley,Precipitation - Winter,mm,2050s,333.1
+Annapolis Valley,Precipitation - Winter,mm,2080s,351.3
+Annapolis Valley,Temperature - Annual,°C,1980s,6.8
+Annapolis Valley,Temperature - Annual,°C,2020s,7.9
+Annapolis Valley,Temperature - Annual,°C,2050s,9.1
+Annapolis Valley,Temperature - Annual,°C,2080s,10.4
+Annapolis Valley,Temperature - Autumn ,°C,1980s,8.5
+Annapolis Valley,Temperature - Autumn ,°C,2020s,9.6
+Annapolis Valley,Temperature - Autumn ,°C,2050s,10.8
+Annapolis Valley,Temperature - Autumn ,°C,2080s,12.1
+Annapolis Valley,Temperature - Spring ,°C,1980s,5
+Annapolis Valley,Temperature - Spring ,°C,2020s,6.1
+Annapolis Valley,Temperature - Spring ,°C,2050s,7.2
+Annapolis Valley,Temperature - Spring ,°C,2080s,8.4
+Annapolis Valley,Temperature - Summer ,°C,1980s,17.9
+Annapolis Valley,Temperature - Summer ,°C,2020s,19
+Annapolis Valley,Temperature - Summer ,°C,2050s,20.2
+Annapolis Valley,Temperature - Summer ,°C,2080s,21.4
+Annapolis Valley,Temperature - Winter,°C,1980s,-4.4
+Annapolis Valley,Temperature - Winter,°C,2020s,-3.2
+Annapolis Valley,Temperature - Winter,°C,2050s,-1.7
+Annapolis Valley,Temperature - Winter,°C,2080s,-0.3
+Annapolis Valley,Water Deficit ,mm,1980s,54.2
+Annapolis Valley,Water Deficit ,mm,2020s,60.3
+Annapolis Valley,Water Deficit ,mm,2050s,73.6
+Annapolis Valley,Water Deficit ,mm,2080s,87.6
+Annapolis Valley,Water Surplus,mm,2080s,620.9
+Annapolis Valley,Water Surplus,mm,2050s,630
+Annapolis Valley,Water Surplus,mm,2020s,643.5
+Annapolis Valley,Water Surplus,mm,1980s,684.3
+Cape Breton West,Cold Days (Tmax < -10),Days,2080s,2.5
+Cape Breton West,Cold Days (Tmax < -10),Days,2050s,3.8
+Cape Breton West,Cold Days (Tmax < -10),Days,2020s,5.6
+Cape Breton West,Cold Days (Tmax < -10),Days,1980s,6.1
+Cape Breton West,Hot Days (Tmax > 30),Days,1980s,0.9
+Cape Breton West,Hot Days (Tmax > 30),Days,2020s,2
+Cape Breton West,Hot Days (Tmax > 30),Days,2050s,4.8
+Cape Breton West,Hot Days (Tmax > 30),Days,2080s,9.2
+Cape Breton West,Precipitation - Annual,mm,1980s,1388.7
+Cape Breton West,Precipitation - Annual,mm,2020s,1419.8
+Cape Breton West,Precipitation - Annual,mm,2050s,1441.2
+Cape Breton West,Precipitation - Annual,mm,2080s,1480.6
+Cape Breton West,Precipitation - Autumn,mm,1980s,408.5
+Cape Breton West,Precipitation - Autumn,mm,2020s,411
+Cape Breton West,Precipitation - Autumn,mm,2050s,413
+Cape Breton West,Precipitation - Autumn,mm,2080s,422.1
+Cape Breton West,Precipitation - Spring,mm,1980s,275.4
+Cape Breton West,Precipitation - Spring,mm,2020s,285.2
+Cape Breton West,Precipitation - Spring,mm,2050s,292
+Cape Breton West,Precipitation - Spring,mm,2080s,305.7
+Cape Breton West,Precipitation - Summer,mm,1980s,287.3
+Cape Breton West,Precipitation - Summer,mm,2080s,288
+Cape Breton West,Precipitation - Summer,mm,2050s,288.8
+Cape Breton West,Precipitation - Summer,mm,2020s,291
+Cape Breton West,Precipitation - Winter,mm,1980s,417.6
+Cape Breton West,Precipitation - Winter,mm,2020s,432.1
+Cape Breton West,Precipitation - Winter,mm,2050s,446.8
+Cape Breton West,Precipitation - Winter,mm,2080s,465
+Cape Breton West,Temperature - Annual,°C,1980s,6.2
+Cape Breton West,Temperature - Annual,°C,2020s,7.2
+Cape Breton West,Temperature - Annual,°C,2050s,8.3
+Cape Breton West,Temperature - Annual,°C,2080s,9.6
+Cape Breton West,Temperature - Autumn ,°C,1980s,8.8
+Cape Breton West,Temperature - Autumn ,°C,2020s,9.8
+Cape Breton West,Temperature - Autumn ,°C,2050s,10.9
+Cape Breton West,Temperature - Autumn ,°C,2080s,12.1
+Cape Breton West,Temperature - Spring ,°C,1980s,3.3
+Cape Breton West,Temperature - Spring ,°C,2020s,4.2
+Cape Breton West,Temperature - Spring ,°C,2050s,5.3
+Cape Breton West,Temperature - Spring ,°C,2080s,6.4
+Cape Breton West,Temperature - Summer ,°C,1980s,16.8
+Cape Breton West,Temperature - Summer ,°C,2020s,17.8
+Cape Breton West,Temperature - Summer ,°C,2050s,18.9
+Cape Breton West,Temperature - Summer ,°C,2080s,20
+Cape Breton West,Temperature - Winter,°C,1980s,-4.2
+Cape Breton West,Temperature - Winter,°C,2020s,-3
+Cape Breton West,Temperature - Winter,°C,2050s,-1.7
+Cape Breton West,Temperature - Winter,°C,2080s,-0.4
+Cape Breton West,Water Deficit ,mm,1980s,30
+Cape Breton West,Water Deficit ,mm,2020s,33.6
+Cape Breton West,Water Deficit ,mm,2050s,40.8
+Cape Breton West,Water Deficit ,mm,2080s,48.7
+Cape Breton West,Water Surplus,mm,2080s,850.6
+Cape Breton West,Water Surplus,mm,2050s,861.5
+Cape Breton West,Water Surplus,mm,1980s,880
+Cape Breton West,Water Surplus,mm,2020s,887.4
+Guysborough,Cold Days (Tmax < -10),Days,2080s,1.1
+Guysborough,Cold Days (Tmax < -10),Days,2050s,1.7
+Guysborough,Cold Days (Tmax < -10),Days,2020s,2.9
+Guysborough,Cold Days (Tmax < -10),Days,1980s,3.1
+Guysborough,Hot Days (Tmax > 30),Days,1980s,0
+Guysborough,Hot Days (Tmax > 30),Days,2020s,0.1
+Guysborough,Hot Days (Tmax > 30),Days,2050s,0.1
+Guysborough,Hot Days (Tmax > 30),Days,2080s,0.2
+Guysborough,Precipitation - Annual,mm,1980s,1425.8
+Guysborough,Precipitation - Annual,mm,2020s,1452.8
+Guysborough,Precipitation - Annual,mm,2050s,1461.3
+Guysborough,Precipitation - Annual,mm,2080s,1497.4
+Guysborough,Precipitation - Autumn,mm,2050s,403.3
+Guysborough,Precipitation - Autumn,mm,1980s,405.9
+Guysborough,Precipitation - Autumn,mm,2020s,405.9
+Guysborough,Precipitation - Autumn,mm,2080s,408.6
+Guysborough,Precipitation - Spring,mm,1980s,359.7
+Guysborough,Precipitation - Spring,mm,2020s,369.5
+Guysborough,Precipitation - Spring,mm,2050s,375.9
+Guysborough,Precipitation - Spring,mm,2080s,389.5
+Guysborough,Precipitation - Summer,mm,1980s,307.5
+Guysborough,Precipitation - Summer,mm,2050s,308.1
+Guysborough,Precipitation - Summer,mm,2080s,308.6
+Guysborough,Precipitation - Summer,mm,2020s,312.6
+Guysborough,Precipitation - Winter,mm,1980s,352.6
+Guysborough,Precipitation - Winter,mm,2020s,363.9
+Guysborough,Precipitation - Winter,mm,2050s,371.7
+Guysborough,Precipitation - Winter,mm,2080s,387.4
+Guysborough,Temperature - Annual,°C,1980s,5.8
+Guysborough,Temperature - Annual,°C,2020s,6.7
+Guysborough,Temperature - Annual,°C,2050s,7.8
+Guysborough,Temperature - Annual,°C,2080s,8.9
+Guysborough,Temperature - Autumn ,°C,1980s,9.6
+Guysborough,Temperature - Autumn ,°C,2020s,10.6
+Guysborough,Temperature - Autumn ,°C,2050s,11.7
+Guysborough,Temperature - Autumn ,°C,2080s,12.9
+Guysborough,Temperature - Spring ,°C,1980s,2.4
+Guysborough,Temperature - Spring ,°C,2020s,3.4
+Guysborough,Temperature - Spring ,°C,2050s,4.4
+Guysborough,Temperature - Spring ,°C,2080s,5.4
+Guysborough,Temperature - Summer ,°C,1980s,14.1
+Guysborough,Temperature - Summer ,°C,2020s,15.1
+Guysborough,Temperature - Summer ,°C,2050s,16.2
+Guysborough,Temperature - Summer ,°C,2080s,17.2
+Guysborough,Temperature - Winter,°C,1980s,-3.2
+Guysborough,Temperature - Winter,°C,2020s,-2.2
+Guysborough,Temperature - Winter,°C,2050s,-1
+Guysborough,Temperature - Winter,°C,2080s,0.3
+Guysborough,Water Deficit ,mm,1980s,13.8
+Guysborough,Water Deficit ,mm,2020s,15.9
+Guysborough,Water Deficit ,mm,2050s,20.2
+Guysborough,Water Deficit ,mm,2080s,24.4
+Guysborough,Water Surplus,mm,2080s,942.9
+Guysborough,Water Surplus,mm,2050s,964
+Guysborough,Water Surplus,mm,2020s,971
+Guysborough,Water Surplus,mm,1980s,1148.3
+HRM,Cold Days (Tmax < -10),Days,2080s,0.7
+HRM,Cold Days (Tmax < -10),Days,2050s,1.3
+HRM,Cold Days (Tmax < -10),Days,2020s,2.3
+HRM,Cold Days (Tmax < -10),Days,1980s,3.4
+HRM,Hot Days (Tmax > 30),Days,1980s,0.9
+HRM,Hot Days (Tmax > 30),Days,2020s,1.7
+HRM,Hot Days (Tmax > 30),Days,2050s,3.9
+HRM,Hot Days (Tmax > 30),Days,2080s,7
+HRM,Precipitation - Annual,mm,1980s,1419.4
+HRM,Precipitation - Annual,mm,2020s,1452.8
+HRM,Precipitation - Annual,mm,2050s,1460.7
+HRM,Precipitation - Annual,mm,2080s,1500.7
+HRM,Precipitation - Autumn,mm,1980s,363.8
+HRM,Precipitation - Autumn,mm,2050s,364.3
+HRM,Precipitation - Autumn,mm,2020s,366.7
+HRM,Precipitation - Autumn,mm,2080s,370.6
+HRM,Precipitation - Spring,mm,1980s,355
+HRM,Precipitation - Spring,mm,2020s,365.9
+HRM,Precipitation - Spring,mm,2050s,371.6
+HRM,Precipitation - Spring,mm,2080s,385.3
+HRM,Precipitation - Summer,mm,1980s,312.1
+HRM,Precipitation - Summer,mm,2050s,314.9
+HRM,Precipitation - Summer,mm,2080s,315.5
+HRM,Precipitation - Summer,mm,2020s,317.6
+HRM,Precipitation - Winter,mm,1980s,388.4
+HRM,Precipitation - Winter,mm,2020s,403.6
+HRM,Precipitation - Winter,mm,2050s,411.3
+HRM,Precipitation - Winter,mm,2080s,431.6
+HRM,Temperature - Annual,°C,1980s,6.7
+HRM,Temperature - Annual,°C,2020s,7.7
+HRM,Temperature - Annual,°C,2050s,8.9
+HRM,Temperature - Annual,°C,2080s,10.1
+HRM,Temperature - Autumn ,°C,1980s,9.3
+HRM,Temperature - Autumn ,°C,2020s,10.4
+HRM,Temperature - Autumn ,°C,2050s,11.5
+HRM,Temperature - Autumn ,°C,2080s,12.7
+HRM,Temperature - Spring ,°C,1980s,4.2
+HRM,Temperature - Spring ,°C,2020s,5.2
+HRM,Temperature - Spring ,°C,2050s,6.2
+HRM,Temperature - Spring ,°C,2080s,7.3
+HRM,Temperature - Summer ,°C,1980s,16.7
+HRM,Temperature - Summer ,°C,2020s,17.7
+HRM,Temperature - Summer ,°C,2050s,18.9
+HRM,Temperature - Summer ,°C,2080s,20
+HRM,Temperature - Winter,°C,1980s,-3.6
+HRM,Temperature - Winter,°C,2020s,-2.4
+HRM,Temperature - Winter,°C,2050s,-1.1
+HRM,Temperature - Winter,°C,2080s,0.3
+HRM,Water Deficit ,mm,1980s,27.8
+HRM,Water Deficit ,mm,2020s,31.2
+HRM,Water Deficit ,mm,2050s,38.5
+HRM,Water Deficit ,mm,2080s,45.7
+HRM,Water Surplus,mm,2080s,925.3
+HRM,Water Surplus,mm,2050s,953.5
+HRM,Water Surplus,mm,2020s,986
+HRM,Water Surplus,mm,1980s,1054.9
+Kentville,Cold Days (Tmax < -10),Days,2080s,1.3
+Kentville,Cold Days (Tmax < -10),Days,2050s,2.6
+Kentville,Cold Days (Tmax < -10),Days,2020s,4.5
+Kentville,Cold Days (Tmax < -10),Days,1980s,6.2
+Kentville,Hot Days (Tmax > 30),Days,1980s,3.5
+Kentville,Hot Days (Tmax > 30),Days,2020s,8.4
+Kentville,Hot Days (Tmax > 30),Days,2050s,15.4
+Kentville,Hot Days (Tmax > 30),Days,2080s,24.9
+Kentville,Precipitation - Annual,mm,1980s,1212.5
+Kentville,Precipitation - Annual,mm,2020s,1245.8
+Kentville,Precipitation - Annual,mm,2050s,1256.1
+Kentville,Precipitation - Annual,mm,2080s,1293.4
+Kentville,Precipitation - Autumn,mm,1980s,302
+Kentville,Precipitation - Autumn,mm,2050s,305.3
+Kentville,Precipitation - Autumn,mm,2020s,305.7
+Kentville,Precipitation - Autumn,mm,2080s,312.1
+Kentville,Precipitation - Spring,mm,1980s,298.2
+Kentville,Precipitation - Spring,mm,2020s,308.1
+Kentville,Precipitation - Spring,mm,2050s,312.5
+Kentville,Precipitation - Spring,mm,2080s,324.7
+Kentville,Precipitation - Summer,mm,1980s,254.5
+Kentville,Precipitation - Summer,mm,2050s,258
+Kentville,Precipitation - Summer,mm,2080s,258.4
+Kentville,Precipitation - Summer,mm,2020s,258.8
+Kentville,Precipitation - Winter,mm,1980s,357.8
+Kentville,Precipitation - Winter,mm,2020s,375.1
+Kentville,Precipitation - Winter,mm,2050s,384.2
+Kentville,Precipitation - Winter,mm,2080s,405
+Kentville,Temperature - Annual,°C,1980s,6.9
+Kentville,Temperature - Annual,°C,2020s,8.1
+Kentville,Temperature - Annual,°C,2050s,9.3
+Kentville,Temperature - Annual,°C,2080s,10.6
+Kentville,Temperature - Autumn ,°C,1980s,9
+Kentville,Temperature - Autumn ,°C,2020s,10.2
+Kentville,Temperature - Autumn ,°C,2050s,11.3
+Kentville,Temperature - Autumn ,°C,2080s,12.6
+Kentville,Temperature - Spring ,°C,1980s,5
+Kentville,Temperature - Spring ,°C,2020s,6
+Kentville,Temperature - Spring ,°C,2050s,7.1
+Kentville,Temperature - Spring ,°C,2080s,8.3
+Kentville,Temperature - Summer ,°C,1980s,18.1
+Kentville,Temperature - Summer ,°C,2020s,19.2
+Kentville,Temperature - Summer ,°C,2050s,20.4
+Kentville,Temperature - Summer ,°C,2080s,21.5
+Kentville,Temperature - Winter,°C,1980s,-4.4
+Kentville,Temperature - Winter,°C,2020s,-3.1
+Kentville,Temperature - Winter,°C,2050s,-1.7
+Kentville,Temperature - Winter,°C,2080s,-0.3
+Kentville,Water Deficit ,mm,1980s,56
+Kentville,Water Deficit ,mm,2020s,62.8
+Kentville,Water Deficit ,mm,2050s,76.7
+Kentville,Water Deficit ,mm,2080s,91.2
+Kentville,Water Surplus,mm,2050s,697.3
+Kentville,Water Surplus,mm,2080s,708.3
+Kentville,Water Surplus,mm,2020s,714.7
+Kentville,Water Surplus,mm,1980s,728
+Liverpool,Cold Days (Tmax < -10),Days,2080s,0.2
+Liverpool,Cold Days (Tmax < -10),Days,2050s,0.7
+Liverpool,Cold Days (Tmax < -10),Days,2020s,1.5
+Liverpool,Cold Days (Tmax < -10),Days,1980s,2.5
+Liverpool,Hot Days (Tmax > 30),Days,1980s,6.2
+Liverpool,Hot Days (Tmax > 30),Days,2020s,11.8
+Liverpool,Hot Days (Tmax > 30),Days,2050s,20.4
+Liverpool,Hot Days (Tmax > 30),Days,2080s,29.9
+Liverpool,Precipitation - Annual,mm,1980s,1646.7
+Liverpool,Precipitation - Annual,mm,2020s,1691.9
+Liverpool,Precipitation - Annual,mm,2050s,1705.9
+Liverpool,Precipitation - Annual,mm,2080s,1756.5
+Liverpool,Precipitation - Autumn,mm,1980s,433
+Liverpool,Precipitation - Autumn,mm,2050s,437.6
+Liverpool,Precipitation - Autumn,mm,2020s,438.3
+Liverpool,Precipitation - Autumn,mm,2080s,447.5
+Liverpool,Precipitation - Spring,mm,1980s,424.1
+Liverpool,Precipitation - Spring,mm,2020s,438.2
+Liverpool,Precipitation - Spring,mm,2050s,444.5
+Liverpool,Precipitation - Spring,mm,2080s,461.9
+Liverpool,Precipitation - Summer,mm,1980s,287.2
+Liverpool,Precipitation - Summer,mm,2050s,291.1
+Liverpool,Precipitation - Summer,mm,2080s,291.5
+Liverpool,Precipitation - Summer,mm,2020s,292
+Liverpool,Precipitation - Winter,mm,1980s,502.3
+Liverpool,Precipitation - Winter,mm,2020s,526.7
+Liverpool,Precipitation - Winter,mm,2050s,539.3
+Liverpool,Precipitation - Winter,mm,2080s,568.7
+Liverpool,Temperature - Annual,°C,1980s,7.4
+Liverpool,Temperature - Annual,°C,2020s,8.5
+Liverpool,Temperature - Annual,°C,2050s,9.8
+Liverpool,Temperature - Annual,°C,2080s,11
+Liverpool,Temperature - Autumn ,°C,1980s,9.4
+Liverpool,Temperature - Autumn ,°C,2020s,10.5
+Liverpool,Temperature - Autumn ,°C,2050s,11.7
+Liverpool,Temperature - Autumn ,°C,2080s,13
+Liverpool,Temperature - Spring ,°C,1980s,5.3
+Liverpool,Temperature - Spring ,°C,2020s,6.4
+Liverpool,Temperature - Spring ,°C,2050s,7.5
+Liverpool,Temperature - Spring ,°C,2080s,8.6
+Liverpool,Temperature - Summer ,°C,1980s,18
+Liverpool,Temperature - Summer ,°C,2020s,19.1
+Liverpool,Temperature - Summer ,°C,2050s,20.3
+Liverpool,Temperature - Summer ,°C,2080s,21.4
+Liverpool,Temperature - Winter,°C,1980s,-3.2
+Liverpool,Temperature - Winter,°C,2020s,-1.9
+Liverpool,Temperature - Winter,°C,2050s,-0.5
+Liverpool,Temperature - Winter,°C,2080s,1
+Liverpool,Water Deficit ,mm,1980s,39
+Liverpool,Water Deficit ,mm,2020s,46.8
+Liverpool,Water Deficit ,mm,2050s,56
+Liverpool,Water Deficit ,mm,2080s,66.3
+Liverpool,Water Surplus,mm,2050s,1098
+Liverpool,Water Surplus,mm,2080s,1112.9
+Liverpool,Water Surplus,mm,2020s,1132.6
+Liverpool,Water Surplus,mm,1980s,1356.2
+Lunenburg,Cold Days (Tmax < -10),Days,2080s,0.5
+Lunenburg,Cold Days (Tmax < -10),Days,2050s,1
+Lunenburg,Cold Days (Tmax < -10),Days,2020s,2.3
+Lunenburg,Cold Days (Tmax < -10),Days,1980s,3.1
+Lunenburg,Hot Days (Tmax > 30),Days,1980s,5.8
+Lunenburg,Hot Days (Tmax > 30),Days,2020s,12.6
+Lunenburg,Hot Days (Tmax > 30),Days,2050s,21.6
+Lunenburg,Hot Days (Tmax > 30),Days,2080s,31.4
+Lunenburg,Precipitation - Annual,mm,1980s,1522.5
+Lunenburg,Precipitation - Annual,mm,2020s,1564.2
+Lunenburg,Precipitation - Annual,mm,2050s,1577.2
+Lunenburg,Precipitation - Annual,mm,2080s,1624
+Lunenburg,Precipitation - Autumn,mm,1980s,399.5
+Lunenburg,Precipitation - Autumn,mm,2050s,403.8
+Lunenburg,Precipitation - Autumn,mm,2020s,404.3
+Lunenburg,Precipitation - Autumn,mm,2080s,412.8
+Lunenburg,Precipitation - Spring,mm,1980s,392.4
+Lunenburg,Precipitation - Spring,mm,2020s,405.4
+Lunenburg,Precipitation - Spring,mm,2050s,411.2
+Lunenburg,Precipitation - Spring,mm,2080s,427.3
+Lunenburg,Precipitation - Summer,mm,1980s,294.4
+Lunenburg,Precipitation - Summer,mm,2050s,298.4
+Lunenburg,Precipitation - Summer,mm,2080s,298.8
+Lunenburg,Precipitation - Summer,mm,2020s,299.3
+Lunenburg,Precipitation - Winter,mm,1980s,436.2
+Lunenburg,Precipitation - Winter,mm,2020s,457.5
+Lunenburg,Precipitation - Winter,mm,2050s,468.4
+Lunenburg,Precipitation - Winter,mm,2080s,493.9
+Lunenburg,Temperature - Annual,°C,1980s,6.8
+Lunenburg,Temperature - Annual,°C,2020s,8
+Lunenburg,Temperature - Annual,°C,2050s,9.2
+Lunenburg,Temperature - Annual,°C,2080s,10.5
+Lunenburg,Temperature - Autumn ,°C,1980s,8.7
+Lunenburg,Temperature - Autumn ,°C,2020s,9.9
+Lunenburg,Temperature - Autumn ,°C,2050s,11
+Lunenburg,Temperature - Autumn ,°C,2080s,12.3
+Lunenburg,Temperature - Spring ,°C,1980s,4.9
+Lunenburg,Temperature - Spring ,°C,2020s,6
+Lunenburg,Temperature - Spring ,°C,2050s,7.1
+Lunenburg,Temperature - Spring ,°C,2080s,8.2
+Lunenburg,Temperature - Summer ,°C,1980s,17.6
+Lunenburg,Temperature - Summer ,°C,2020s,18.7
+Lunenburg,Temperature - Summer ,°C,2050s,19.9
+Lunenburg,Temperature - Summer ,°C,2080s,21.1
+Lunenburg,Temperature - Winter,°C,1980s,-4
+Lunenburg,Temperature - Winter,°C,2020s,-2.7
+Lunenburg,Temperature - Winter,°C,2050s,-1.3
+Lunenburg,Temperature - Winter,°C,2080s,0.2
+Lunenburg,Water Deficit ,mm,1980s,31.5
+Lunenburg,Water Deficit ,mm,2020s,35.8
+Lunenburg,Water Deficit ,mm,2050s,44
+Lunenburg,Water Deficit ,mm,2080s,53.1
+Lunenburg,Water Surplus,mm,2050s,978.1
+Lunenburg,Water Surplus,mm,2080s,982.7
+Lunenburg,Water Surplus,mm,2020s,1004.5
+Lunenburg,Water Surplus,mm,1980s,1157.1
+Nova Scotia Summary,Cold Days (Tmax < -10),Days,2080s,1.4
+Nova Scotia Summary,Cold Days (Tmax < -10),Days,2050s,2.2
+Nova Scotia Summary,Cold Days (Tmax < -10),Days,2020s,3.6
+Nova Scotia Summary,Cold Days (Tmax < -10),Days,1980s,4.6
+Nova Scotia Summary,Hot Days (Tmax > 30),Days,1980s,2.4
+Nova Scotia Summary,Hot Days (Tmax > 30),Days,2020s,5.2
+Nova Scotia Summary,Hot Days (Tmax > 30),Days,2050s,9.7
+Nova Scotia Summary,Hot Days (Tmax > 30),Days,2080s,16.1
+Nova Scotia Summary,Precipitation - Annual,mm,1980s,1351.8
+Nova Scotia Summary,Precipitation - Annual,mm,2020s,1385.2
+Nova Scotia Summary,Precipitation - Annual,mm,2050s,1396
+Nova Scotia Summary,Precipitation - Annual,mm,2080s,1435.3
+Nova Scotia Summary,Precipitation - Autumn,mm,1980s,365
+Nova Scotia Summary,Precipitation - Autumn,mm,2050s,367
+Nova Scotia Summary,Precipitation - Autumn,mm,2020s,368.1
+Nova Scotia Summary,Precipitation - Autumn,mm,2080s,374.2
+Nova Scotia Summary,Precipitation - Spring,mm,1980s,327.4
+Nova Scotia Summary,Precipitation - Spring,mm,2020s,337.8
+Nova Scotia Summary,Precipitation - Spring,mm,2050s,343.1
+Nova Scotia Summary,Precipitation - Spring,mm,2080s,356.3
+Nova Scotia Summary,Precipitation - Summer,mm,1980s,277.4
+Nova Scotia Summary,Precipitation - Summer,mm,2050s,280.1
+Nova Scotia Summary,Precipitation - Summer,mm,2080s,280.4
+Nova Scotia Summary,Precipitation - Summer,mm,2020s,282
+Nova Scotia Summary,Precipitation - Winter,mm,1980s,382.1
+Nova Scotia Summary,Precipitation - Winter,mm,2020s,398.4
+Nova Scotia Summary,Precipitation - Winter,mm,2050s,407.7
+Nova Scotia Summary,Precipitation - Winter,mm,2080s,428.1
+Nova Scotia Summary,Temperature - Annual,°C,1980s,6.4
+Nova Scotia Summary,Temperature - Annual,°C,2020s,7.5
+Nova Scotia Summary,Temperature - Annual,°C,2050s,8.7
+Nova Scotia Summary,Temperature - Annual,°C,2080s,9.9
+Nova Scotia Summary,Temperature - Autumn ,°C,1980s,8.8
+Nova Scotia Summary,Temperature - Autumn ,°C,2020s,9.8
+Nova Scotia Summary,Temperature - Autumn ,°C,2050s,11
+Nova Scotia Summary,Temperature - Autumn ,°C,2080s,12.2
+Nova Scotia Summary,Temperature - Spring ,°C,1980s,4.2
+Nova Scotia Summary,Temperature - Spring ,°C,2020s,5.1
+Nova Scotia Summary,Temperature - Spring ,°C,2050s,6.2
+Nova Scotia Summary,Temperature - Spring ,°C,2080s,7.4
+Nova Scotia Summary,Temperature - Summer ,°C,1980s,16.9
+Nova Scotia Summary,Temperature - Summer ,°C,2020s,17.9
+Nova Scotia Summary,Temperature - Summer ,°C,2050s,19
+Nova Scotia Summary,Temperature - Summer ,°C,2080s,20.1
+Nova Scotia Summary,Temperature - Winter,°C,1980s,-4.1
+Nova Scotia Summary,Temperature - Winter,°C,2020s,-2.9
+Nova Scotia Summary,Temperature - Winter,°C,2050s,-1.5
+Nova Scotia Summary,Temperature - Winter,°C,2080s,-0.2
+Nova Scotia Summary,Water Deficit ,mm,1980s,36
+Nova Scotia Summary,Water Deficit ,mm,2020s,40
+Nova Scotia Summary,Water Deficit ,mm,2050s,48.8
+Nova Scotia Summary,Water Deficit ,mm,2080s,57.9
+Nova Scotia Summary,Water Surplus,mm,2080s,850.1
+Nova Scotia Summary,Water Surplus,mm,2050s,851.5
+Nova Scotia Summary,Water Surplus,mm,2020s,870.3
+Nova Scotia Summary,Water Surplus,mm,1980s,947.7
+Pictou-Antigonish,Cold Days (Tmax < -10),Days,2080s,3.2
+Pictou-Antigonish,Cold Days (Tmax < -10),Days,2050s,4.5
+Pictou-Antigonish,Cold Days (Tmax < -10),Days,2020s,5.9
+Pictou-Antigonish,Cold Days (Tmax < -10),Days,1980s,6.9
+Pictou-Antigonish,Hot Days (Tmax > 30),Days,1980s,3.1
+Pictou-Antigonish,Hot Days (Tmax > 30),Days,2020s,6.3
+Pictou-Antigonish,Hot Days (Tmax > 30),Days,2050s,11.6
+Pictou-Antigonish,Hot Days (Tmax > 30),Days,2080s,18.6
+Pictou-Antigonish,Precipitation - Annual,mm,1980s,1383.3
+Pictou-Antigonish,Precipitation - Annual,mm,2020s,1415.8
+Pictou-Antigonish,Precipitation - Annual,mm,2050s,1423.6
+Pictou-Antigonish,Precipitation - Annual,mm,2080s,1462.5
+Pictou-Antigonish,Precipitation - Autumn,mm,1980s,403.9
+Pictou-Antigonish,Precipitation - Autumn,mm,2050s,404.4
+Pictou-Antigonish,Precipitation - Autumn,mm,2020s,407.1
+Pictou-Antigonish,Precipitation - Autumn,mm,2080s,411.3
+Pictou-Antigonish,Precipitation - Spring,mm,1980s,324.3
+Pictou-Antigonish,Precipitation - Spring,mm,2020s,334.3
+Pictou-Antigonish,Precipitation - Spring,mm,2050s,339.5
+Pictou-Antigonish,Precipitation - Spring,mm,2080s,352
+Pictou-Antigonish,Precipitation - Summer,mm,1980s,291.5
+Pictou-Antigonish,Precipitation - Summer,mm,2050s,294.1
+Pictou-Antigonish,Precipitation - Summer,mm,2080s,294.7
+Pictou-Antigonish,Precipitation - Summer,mm,2020s,296.6
+Pictou-Antigonish,Precipitation - Winter,mm,1980s,363.6
+Pictou-Antigonish,Precipitation - Winter,mm,2020s,377.8
+Pictou-Antigonish,Precipitation - Winter,mm,2050s,385.1
+Pictou-Antigonish,Precipitation - Winter,mm,2080s,404
+Pictou-Antigonish,Temperature - Annual,°C,1980s,5.7
+Pictou-Antigonish,Temperature - Annual,°C,2020s,6.8
+Pictou-Antigonish,Temperature - Annual,°C,2050s,8
+Pictou-Antigonish,Temperature - Annual,°C,2080s,9.2
+Pictou-Antigonish,Temperature - Autumn ,°C,1980s,8.1
+Pictou-Antigonish,Temperature - Autumn ,°C,2020s,9.2
+Pictou-Antigonish,Temperature - Autumn ,°C,2050s,10.3
+Pictou-Antigonish,Temperature - Autumn ,°C,2080s,11.5
+Pictou-Antigonish,Temperature - Spring ,°C,1980s,3.5
+Pictou-Antigonish,Temperature - Spring ,°C,2020s,4.4
+Pictou-Antigonish,Temperature - Spring ,°C,2050s,5.5
+Pictou-Antigonish,Temperature - Spring ,°C,2080s,6.6
+Pictou-Antigonish,Temperature - Summer ,°C,1980s,16.8
+Pictou-Antigonish,Temperature - Summer ,°C,2020s,17.8
+Pictou-Antigonish,Temperature - Summer ,°C,2050s,19
+Pictou-Antigonish,Temperature - Summer ,°C,2080s,20.1
+Pictou-Antigonish,Temperature - Winter,°C,1980s,-5.4
+Pictou-Antigonish,Temperature - Winter,°C,2020s,-4.3
+Pictou-Antigonish,Temperature - Winter,°C,2050s,-3
+Pictou-Antigonish,Temperature - Winter,°C,2080s,-1.7
+Pictou-Antigonish,Water Deficit ,mm,1980s,28
+Pictou-Antigonish,Water Deficit ,mm,2020s,31.4
+Pictou-Antigonish,Water Deficit ,mm,2050s,39
+Pictou-Antigonish,Water Deficit ,mm,2080s,46.6
+Pictou-Antigonish,Water Surplus,mm,2050s,877.4
+Pictou-Antigonish,Water Surplus,mm,2080s,881.5
+Pictou-Antigonish,Water Surplus,mm,2020s,886.8
+Pictou-Antigonish,Water Surplus,mm,1980s,968.3
+Sydney,Cold Days (Tmax < -10),Days,2080s,2
+Sydney,Cold Days (Tmax < -10),Days,2050s,2.9
+Sydney,Cold Days (Tmax < -10),Days,2020s,4.3
+Sydney,Cold Days (Tmax < -10),Days,1980s,5.3
+Sydney,Hot Days (Tmax > 30),Days,1980s,2.4
+Sydney,Hot Days (Tmax > 30),Days,2020s,4.1
+Sydney,Hot Days (Tmax > 30),Days,2050s,7.6
+Sydney,Hot Days (Tmax > 30),Days,2080s,12.8
+Sydney,Precipitation - Annual,mm,1980s,1502.2
+Sydney,Precipitation - Annual,mm,2020s,1530.6
+Sydney,Precipitation - Annual,mm,2050s,1539.7
+Sydney,Precipitation - Annual,mm,2080s,1577.6
+Sydney,Precipitation - Autumn,mm,2050s,407.6
+Sydney,Precipitation - Autumn,mm,1980s,410.2
+Sydney,Precipitation - Autumn,mm,2020s,410.2
+Sydney,Precipitation - Autumn,mm,2080s,413
+Sydney,Precipitation - Spring,mm,1980s,372.2
+Sydney,Precipitation - Spring,mm,2020s,382.4
+Sydney,Precipitation - Spring,mm,2050s,389
+Sydney,Precipitation - Spring,mm,2080s,403.1
+Sydney,Precipitation - Summer,mm,1980s,272.5
+Sydney,Precipitation - Summer,mm,2050s,273
+Sydney,Precipitation - Summer,mm,2080s,273.4
+Sydney,Precipitation - Summer,mm,2020s,277
+Sydney,Precipitation - Winter,mm,1980s,447.3
+Sydney,Precipitation - Winter,mm,2020s,461.6
+Sydney,Precipitation - Winter,mm,2050s,471.5
+Sydney,Precipitation - Winter,mm,2080s,491.4
+Sydney,Temperature - Annual,°C,1980s,5.5
+Sydney,Temperature - Annual,°C,2020s,6.5
+Sydney,Temperature - Annual,°C,2050s,7.6
+Sydney,Temperature - Annual,°C,2080s,8.7
+Sydney,Temperature - Autumn ,°C,1980s,8.2
+Sydney,Temperature - Autumn ,°C,2020s,9.2
+Sydney,Temperature - Autumn ,°C,2050s,10.3
+Sydney,Temperature - Autumn ,°C,2080s,11.5
+Sydney,Temperature - Spring ,°C,1980s,2.4
+Sydney,Temperature - Spring ,°C,2020s,3.3
+Sydney,Temperature - Spring ,°C,2050s,4.3
+Sydney,Temperature - Spring ,°C,2080s,5.4
+Sydney,Temperature - Summer ,°C,1980s,16.2
+Sydney,Temperature - Summer ,°C,2020s,17.2
+Sydney,Temperature - Summer ,°C,2050s,18.2
+Sydney,Temperature - Summer ,°C,2080s,19.3
+Sydney,Temperature - Winter,°C,1980s,-4.8
+Sydney,Temperature - Winter,°C,2020s,-3.8
+Sydney,Temperature - Winter,°C,2050s,-2.6
+Sydney,Temperature - Winter,°C,2080s,-1.4
+Sydney,Water Deficit ,mm,1980s,34
+Sydney,Water Deficit ,mm,2020s,37.9
+Sydney,Water Deficit ,mm,2050s,46.7
+Sydney,Water Deficit ,mm,2080s,55.1
+Sydney,Water Surplus,mm,2050s,1046.9
+Sydney,Water Surplus,mm,2020s,1058.8
+Sydney,Water Surplus,mm,2080s,1060
+Sydney,Water Surplus,mm,1980s,1099.6
+Truro,Cold Days (Tmax < -10),Days,2080s,2.4
+Truro,Cold Days (Tmax < -10),Days,2050s,3.3
+Truro,Cold Days (Tmax < -10),Days,2020s,5.4
+Truro,Cold Days (Tmax < -10),Days,1980s,6.8
+Truro,Hot Days (Tmax > 30),Days,1980s,1.3
+Truro,Hot Days (Tmax > 30),Days,2020s,3.2
+Truro,Hot Days (Tmax > 30),Days,2050s,7.7
+Truro,Hot Days (Tmax > 30),Days,2080s,13.9
+Truro,Precipitation - Annual,mm,1980s,1204
+Truro,Precipitation - Annual,mm,2020s,1232.3
+Truro,Precipitation - Annual,mm,2050s,1239
+Truro,Precipitation - Annual,mm,2080s,1272.9
+Truro,Precipitation - Autumn,mm,1980s,323.8
+Truro,Precipitation - Autumn,mm,2050s,324.3
+Truro,Precipitation - Autumn,mm,2020s,326.4
+Truro,Precipitation - Autumn,mm,2080s,329.8
+Truro,Precipitation - Spring,mm,1980s,285.2
+Truro,Precipitation - Spring,mm,2020s,293.9
+Truro,Precipitation - Spring,mm,2050s,298.5
+Truro,Precipitation - Spring,mm,2080s,309.5
+Truro,Precipitation - Summer,mm,1980s,261.5
+Truro,Precipitation - Summer,mm,2050s,263.8
+Truro,Precipitation - Summer,mm,2080s,264.3
+Truro,Precipitation - Summer,mm,2020s,266.1
+Truro,Precipitation - Winter,mm,1980s,333.4
+Truro,Precipitation - Winter,mm,2020s,346.5
+Truro,Precipitation - Winter,mm,2050s,353.1
+Truro,Precipitation - Winter,mm,2080s,370.5
+Truro,Temperature - Annual,°C,1980s,5.8
+Truro,Temperature - Annual,°C,2020s,6.9
+Truro,Temperature - Annual,°C,2050s,8
+Truro,Temperature - Annual,°C,2080s,9.2
+Truro,Temperature - Autumn ,°C,1980s,7.9
+Truro,Temperature - Autumn ,°C,2020s,9
+Truro,Temperature - Autumn ,°C,2050s,10.1
+Truro,Temperature - Autumn ,°C,2080s,11.3
+Truro,Temperature - Spring ,°C,1980s,3.9
+Truro,Temperature - Spring ,°C,2020s,4.9
+Truro,Temperature - Spring ,°C,2050s,6
+Truro,Temperature - Spring ,°C,2080s,7.1
+Truro,Temperature - Summer ,°C,1980s,16.9
+Truro,Temperature - Summer ,°C,2020s,17.9
+Truro,Temperature - Summer ,°C,2050s,19.1
+Truro,Temperature - Summer ,°C,2080s,20.2
+Truro,Temperature - Winter,°C,1980s,-5.6
+Truro,Temperature - Winter,°C,2020s,-4.5
+Truro,Temperature - Winter,°C,2050s,-3.2
+Truro,Temperature - Winter,°C,2080s,-1.9
+Truro,Water Deficit ,mm,1980s,41.7
+Truro,Water Deficit ,mm,2020s,45.8
+Truro,Water Deficit ,mm,2050s,55.2
+Truro,Water Deficit ,mm,2080s,64.9
+Truro,Water Surplus,mm,2050s,744.9
+Truro,Water Surplus,mm,2020s,761.8
+Truro,Water Surplus,mm,2080s,768.1
+Truro,Water Surplus,mm,1980s,813.1
+Yarmouth,Cold Days (Tmax < -10),Days,2050s,0.1
+Yarmouth,Cold Days (Tmax < -10),Days,2080s,0.1
+Yarmouth,Cold Days (Tmax < -10),Days,2020s,0.6
+Yarmouth,Cold Days (Tmax < -10),Days,1980s,1.5
+Yarmouth,Hot Days (Tmax > 30),Days,1980s,0
+Yarmouth,Hot Days (Tmax > 30),Days,2020s,0.1
+Yarmouth,Hot Days (Tmax > 30),Days,2050s,0.2
+Yarmouth,Hot Days (Tmax > 30),Days,2080s,0.9
+Yarmouth,Precipitation - Annual,mm,1980s,1275.1
+Yarmouth,Precipitation - Annual,mm,2020s,1310.1
+Yarmouth,Precipitation - Annual,mm,2050s,1320.9
+Yarmouth,Precipitation - Annual,mm,2080s,1360.1
+Yarmouth,Precipitation - Autumn,mm,1980s,337.8
+Yarmouth,Precipitation - Autumn,mm,2050s,341.5
+Yarmouth,Precipitation - Autumn,mm,2020s,341.9
+Yarmouth,Precipitation - Autumn,mm,2080s,349.1
+Yarmouth,Precipitation - Spring,mm,1980s,310.9
+Yarmouth,Precipitation - Spring,mm,2020s,321.2
+Yarmouth,Precipitation - Spring,mm,2050s,325.8
+Yarmouth,Precipitation - Spring,mm,2080s,338.6
+Yarmouth,Precipitation - Summer,mm,1980s,255.9
+Yarmouth,Precipitation - Summer,mm,2050s,259.4
+Yarmouth,Precipitation - Summer,mm,2080s,259.7
+Yarmouth,Precipitation - Summer,mm,2020s,260.2
+Yarmouth,Precipitation - Winter,mm,1980s,370.5
+Yarmouth,Precipitation - Winter,mm,2020s,388.5
+Yarmouth,Precipitation - Winter,mm,2050s,397.8
+Yarmouth,Precipitation - Winter,mm,2080s,419.5
+Yarmouth,Temperature - Annual,°C,1980s,6.9
+Yarmouth,Temperature - Annual,°C,2020s,8.1
+Yarmouth,Temperature - Annual,°C,2050s,9.3
+Yarmouth,Temperature - Annual,°C,2080s,10.6
+Yarmouth,Temperature - Autumn ,°C,1980s,9.3
+Yarmouth,Temperature - Autumn ,°C,2020s,10.4
+Yarmouth,Temperature - Autumn ,°C,2050s,11.5
+Yarmouth,Temperature - Autumn ,°C,2080s,12.8
+Yarmouth,Temperature - Spring ,°C,1980s,5
+Yarmouth,Temperature - Spring ,°C,2020s,6
+Yarmouth,Temperature - Spring ,°C,2050s,7.1
+Yarmouth,Temperature - Spring ,°C,2080s,8.3
+Yarmouth,Temperature - Summer ,°C,1980s,15.7
+Yarmouth,Temperature - Summer ,°C,2020s,16.7
+Yarmouth,Temperature - Summer ,°C,2050s,17.9
+Yarmouth,Temperature - Summer ,°C,2080s,19.1
+Yarmouth,Temperature - Winter,°C,1980s,-2.1
+Yarmouth,Temperature - Winter,°C,2020s,-0.8
+Yarmouth,Temperature - Winter,°C,2050s,0.7
+Yarmouth,Temperature - Winter,°C,2080s,2.1
+Yarmouth,Water Deficit ,mm,1980s,36.3
+Yarmouth,Water Deficit ,mm,2020s,40
+Yarmouth,Water Deficit ,mm,2050s,47.8
+Yarmouth,Water Deficit ,mm,2080s,56
+Yarmouth,Water Surplus,mm,2080s,718.6
+Yarmouth,Water Surplus,mm,2050s,739
+Yarmouth,Water Surplus,mm,2020s,770.9
+Yarmouth,Water Surplus,mm,1980s,846.9
